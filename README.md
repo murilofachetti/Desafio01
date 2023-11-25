@@ -20,7 +20,7 @@ Este é um pequeno programa em JavaScript que solicita ao usuário um número in
 ## Explicação do Código:
 
 ### `somatorioTotal(num)`
-Essa função aceita um número inteiro positivo `num` como argumento e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que são interiores a `num`.
+Essa função aceita um número inteiro positivo `num` como argumento e retorna o somatório de todos os valores inteiros divisíveis por 3 ou 5 que são inferiores a `num`.
 
 ### Entrada do Usuário:
 - O programa usa o comando `prompt` para solicitar um número inteiro positivo ao usuário.
